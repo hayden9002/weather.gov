@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Atlanta, GA",
+    "prefix": "ffc"
+  },
+  {
+    "name": "Boston, MA",
+    "prefix": "box"
+  },
+  {
+    "name": "Chicago, IL",
+    "prefix": "lot"
+  },
+  {
+    "name": "Dallas/Fort Worth, TX",
+    "prefix": "fwd"
+  },
+  {
+    "name": "Denver, CO",
+    "prefix": "bou"
+  },
+  {
+    "name": "Houston, TX",
+    "prefix": "hgx"
+  },
+  {
+    "name": "Los Angeles, CA",
+    "prefix": "lox"
+  },
+  {
+    "name": "Miami, FL",
+    "prefix": "mfl"
+  },
+  {
+    "name": "Minneapolis, MN",
+    "prefix": "mpx"
+  },
+  {
+    "name": "New York City and Surrounding Areas",
+    "prefix": "okx"
+  },
+  {
+    "name": "Philadelphia, PA",
+    "prefix": "phi"
+  },
+  {
+    "name": "Phoenix, AZ",
+    "prefix": "psr"
+  },
+  {
+    "name": "San Francisco, CA",
+    "prefix": "mtr"
+  },
+  {
+    "name": "Seattle, WA",
+    "prefix": "sew"
+  },
+  {
+    "name": "Washington D.C. / Baltimore, MD",
+    "prefix": "lwx"
+  }
+]
