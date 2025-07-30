@@ -18,6 +18,7 @@
 		93DE557A2E3AD25E000F7412 /* Weather_govUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DE55792E3AD25E000F7412 /* Weather_govUITestsLaunchTests.swift */; };
 		93DE55872E3AD2CD000F7412 /* WeatherLocations.json in Resources */ = {isa = PBXBuildFile; fileRef = 93DE55862E3AD2CD000F7412 /* WeatherLocations.json */; };
 		93DE558F2E3AD31F000F7412 /* LocationSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DE558E2E3AD31E000F7412 /* LocationSelectionViewController.swift */; };
+		93E489CD2E3AE84100806616 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 93E489CC2E3AE84100806616 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		93DE55792E3AD25E000F7412 /* Weather_govUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_govUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		93DE55862E3AD2CD000F7412 /* WeatherLocations.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = WeatherLocations.json; sourceTree = "<group>"; };
 		93DE558E2E3AD31E000F7412 /* LocationSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationSelectionViewController.swift; sourceTree = "<group>"; };
+		93E489CC2E3AE84100806616 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		93DE554A2E3AD25A000F7412 = {
 			isa = PBXGroup;
 			children = (
+				93E489CC2E3AE84100806616 /* README.md */,
 				93DE55552E3AD25A000F7412 /* Weather.gov */,
 				93DE556C2E3AD25D000F7412 /* Weather.govTests */,
 				93DE55762E3AD25E000F7412 /* Weather.govUITests */,
@@ -239,6 +242,7 @@
 			files = (
 				93DE55632E3AD25D000F7412 /* LaunchScreen.storyboard in Resources */,
 				93DE55872E3AD2CD000F7412 /* WeatherLocations.json in Resources */,
+				93E489CD2E3AE84100806616 /* README.md in Resources */,
 				93DE55602E3AD25D000F7412 /* Assets.xcassets in Resources */,
 				93DE555E2E3AD25A000F7412 /* Main.storyboard in Resources */,
 			);
