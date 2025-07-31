@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  weather.gov
 //
-//  Created by Grant Dickinsojn on 7/30/25.
 //
 
 import UIKit
