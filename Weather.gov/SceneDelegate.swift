@@ -2,7 +2,6 @@
 //  SceneDelegate.swift
 //  weather.gov
 //
-//  Created by Grant Dickinson on 7/30/25.
 //
 
 import UIKit
