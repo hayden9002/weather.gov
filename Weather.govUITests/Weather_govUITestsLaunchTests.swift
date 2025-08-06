@@ -2,9 +2,6 @@
 //  Weather_govUITestsLaunchTests.swift
 //  Weather.govUITests
 //
-//  Created by Grant Dickinson on 7/30/25.
-//
-
 import XCTest
 
 final class Weather_govUITestsLaunchTests: XCTestCase {

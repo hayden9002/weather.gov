@@ -58,5 +58,357 @@
   {
     "name": "Washington D.C. / Baltimore, MD",
     "prefix": "lwx"
+  },
+  {
+    "name": "Newport/Morehead City, NC",
+    "prefix": "mhx"
+  },
+  {
+    "name": "Brownsville, TX",
+    "prefix": "bro"
+  },
+  {
+    "name": "Corpus Christi, TX",
+    "prefix": "crp"
+  },
+  {
+    "name": "New Orleans, LA",
+    "prefix": "lix"
+  },
+  {
+    "name": "Lake Charles, LA",
+    "prefix": "lch"
+  },
+  {
+    "name": "Mobile, AL",
+    "prefix": "mob"
+  },
+  {
+    "name": "Tallahassee, FL",
+    "prefix": "tlh"
+  },
+  {
+    "name": "Tampa, FL",
+    "prefix": "tbw"
+  },
+  {
+    "name": "Key West, FL",
+    "prefix": "key"
+  },
+  {
+    "name": "Melbourne, FL",
+    "prefix": "mlb"
+  },
+  {
+    "name": "Jacksonville, FL",
+    "prefix": "jax"
+  },
+  {
+    "name": "Charleston, SC",
+    "prefix": "chs"
+  },
+  {
+    "name": "Wilmington, NC",
+    "prefix": "ilm"
+  },
+  {
+    "name": "Wakefield, VA",
+    "prefix": "akq"
+  },
+  {
+    "name": "Gray/Portland, ME",
+    "prefix": "gyx"
+  },
+  {
+    "name": "Northern Michigan",
+    "prefix": "mqt"
+  },
+  {
+    "name": "San Diego, CA",
+    "prefix": "sgx"
+  },
+  {
+    "name": "Eureka, CA",
+    "prefix": "eka"
+  },
+  {
+    "name": "Medford, OR",
+    "prefix": "mfr"
+  },
+  {
+    "name": "Portland, OR",
+    "prefix": "pqr"
+  },
+  {
+    "name": "South Central California",
+    "prefix": "hnx"
+  },
+  {
+    "name": "Western Nevada",
+    "prefix": "rev"
+  },
+  {
+    "name": "North Central California",
+    "prefix": "sto"
+  },
+  {
+    "name": "Northeast Oregon and Southeast Washington",
+    "prefix": "pdt"
+  },
+  {
+    "name": "Eastern Washington and Northern Idaho",
+    "prefix": "otx"
+  },
+  {
+    "name": "Southern Nevada, Southeastern California and Northwestern Arizona - Las Vegas",
+    "prefix": "vef"
+  },
+  {
+    "name": "Central Arizona and California Deserts",
+    "prefix": "psr"
+  },
+  {
+    "name": "Southeast Arizona",
+    "prefix": "twc"
+  },
+  {
+    "name": "Northern Arizona",
+    "prefix": "fgz"
+  },
+  {
+    "name": "Utah",
+    "prefix": "slc"
+  },
+  {
+    "name": "Northern and Northeastern Nevada",
+    "prefix": "lkn"
+  },
+  {
+    "name": "Southwestern Idaho and Eastern Oregon",
+    "prefix": "boi"
+  },
+  {
+    "name": "Southeastern Idaho",
+    "prefix": "pih"
+  },
+  {
+    "name": "Western Montana and Central Idaho",
+    "prefix": "mso"
+  },
+  {
+    "name": "Central Montana - Great Falls",
+    "prefix": "tfx"
+  },
+  {
+    "name": "Northeastern Montana",
+    "prefix": "ggw"
+  },
+  {
+    "name": "Southeastern Montana",
+    "prefix": "byz"
+  },
+  {
+    "name": "Western Wyoming",
+    "prefix": "riw"
+  },
+  {
+    "name": "Southeastern Wyoming and Western Nebraska",
+    "prefix": "cys"
+  },
+  {
+    "name": "Northeastern Colorado",
+    "prefix": "bou"
+  },
+  {
+    "name": "Western Colorado and Eastern Utah",
+    "prefix": "gjt"
+  },
+  {
+    "name": "Southeastern Colorado",
+    "prefix": "pub"
+  },
+  {
+    "name": "Northern and Central New Mexico",
+    "prefix": "abq"
+  },
+  {
+    "name": "Southern New Mexico and extreme Western Texas - El Paso",
+    "prefix": "elp"
+  },
+  {
+    "name": "Texas and Oklahoma",
+    "prefix": "ama"
+  },
+  {
+    "name": "Lubbock and South Plains Texas",
+    "prefix": "lub"
+  },
+  {
+    "name": "Western Texas and Southeastern New Mexico",
+    "prefix": "maf"
+  },
+  {
+    "name": "Western South Dakota and Northeastern Wyoming",
+    "prefix": "unr"
+  },
+  {
+    "name": "Northwestern Kansas and East Central Colorado - Goodland",
+    "prefix": "gld"
+  },
+  {
+    "name": "Central Nebraska - North Platte",
+    "prefix": "lbf"
+  },
+  {
+    "name": "North Central Kansas and South Central Nebraska",
+    "prefix": "gid"
+  },
+  {
+    "name": "Southeastern South Dakota, Southwestern Minnesota, and Northwestern Iowa",
+    "prefix": "fsd"
+  },
+  {
+    "name": "Northern and Northeastern South Dakota",
+    "prefix": "abr"
+  },
+  {
+    "name": "Western North Dakota",
+    "prefix": "bis"
+  },
+  {
+    "name": "Eastern Nebraska and Southwestern Iowa - Omaha Valley",
+    "prefix": "oax"
+  },
+  {
+    "name": "Northeastern Kansas",
+    "prefix": "top"
+  },
+  {
+    "name": "Southeastern Kansas",
+    "prefix": "ict"
+  },
+  {
+    "name": "Southwestern Kansas - Dodge City",
+    "prefix": "ddc"
+  },
+  {
+    "name": "Central Oklahoma",
+    "prefix": "oun"
+  },
+  {
+    "name": "Eastern Oklahoma and Northwestern Arkansas",
+    "prefix": "tulsa"
+  },
+  {
+    "name": "Northern Louisiana and Eastern Texas - Shreveport",
+    "prefix": "shv"
+  },
+  {
+    "name": "Arkansas",
+    "prefix": "lzk"
+  },
+  {
+    "name": "Southwestern Missouri",
+    "prefix": "sgf"
+  },
+  {
+    "name": "Northwestern Missouri",
+    "prefix": "eax"
+  },
+  {
+    "name": "Central Iowa",
+    "prefix": "dmx"
+  },
+  {
+    "name": "Southern Minnesota",
+    "prefix": "mpx"
+  },
+  {
+    "name": "Northeastern North Dakota and Northwestern Minnesota",
+    "prefix": "fgf"
+  },
+  {
+    "name": "Northeast Minnesota and Northern Wisconsin",
+    "prefix": "dlh"
+  },
+  {
+    "name": "Southwestern Wisconsin, Southeastern Minnesota, and Northeast Iowa",
+    "prefix": "arx"
+  },
+  {
+    "name": "Eastern Iowa and Northwestern Illinois - Quad Cities",
+    "prefix": "dvn"
+  },
+  {
+    "name": "Eastern Missouri - West Central Illinois",
+    "prefix": "lsx"
+  },
+  {
+    "name": "Western Tennessee, Eastern Arkansas and Northern Mississippi - Memphis",
+    "prefix": "meg"
+  },
+  {
+    "name": "Central Mississippi",
+    "prefix": "jan"
+  },
+  {
+    "name": "Southeastern Louisiana",
+    "prefix": "lix"
+  },
+  {
+    "name": "Middle Tennessee",
+    "prefix": "bna"
+  },
+  {
+    "name": "Northern Alabama",
+    "prefix": "hun"
+  },
+  {
+    "name": "Central Alabama",
+    "prefix": "bmx"
+  },
+  {
+    "name": "Mobile - Pensacola",
+    "prefix": "mob"
+  },
+  {
+    "name": "West Central Florida",
+    "prefix": "tbw"
+  },
+  {
+    "name": "East Central Florida",
+    "prefix": "mlb"
+  },
+  {
+    "name": "Panhandle of Florida and Southwestern Georgia",
+    "prefix": "tlh"
+  },
+  {
+    "name": "Northeast Florida and Southeast Georgia",
+    "prefix": "jax"
+  },
+  {
+    "name": "Northern and Central Georgia",
+    "prefix": "ffc"
+  },
+  {
+    "name": "Low Country of South Carolina and Georgia",
+    "prefix": "chs"
+  },
+  {
+    "name": "Northeastern South Carolina and Southeastern North Carolina - Wilmington",
+    "prefix": "ilm"
+  },
+  {
+    "name": "Central South Carolina and CSRA",
+    "prefix": "cae"
+  },
+  {
+    "name": "Western North Carolina and Northwest South Carolina",
+    "prefix": "gsp"
+  },
+  {
+    "name": "Eastern Tennessee",
+    "prefix": "mrx"
   }
 ]
